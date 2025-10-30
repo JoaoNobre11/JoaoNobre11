@@ -14,6 +14,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoNobre11&show_icons=true" />
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoNobre11&repo=github-readme-stats)](https://github.com/JoaoNobre11/github-readme-stats)
 
                               
