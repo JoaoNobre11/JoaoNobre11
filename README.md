@@ -2,17 +2,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoNobre11&show_icons=true&theme=dracula)](https://github.com/JoaoNobre11/github-readme-stats)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoaoNobre11&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dracula)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JoaoNobre11&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoNobre11&show_icons=true" />
-</picture>
+
 
 
                               
