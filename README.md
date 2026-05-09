@@ -18,7 +18,7 @@ Estou construindo projetos para desenvolver minhas habilidades e me preparar par
 - 🐍 Python  
 - 🧠 Lógica de Programação  
 - 🗄️ Banco de Dados (SQL)  
-- 🌐 HTML, CSS (básico)  
+- 🌐 HTML, CSS, JS (básico)  
 
 ---
 
